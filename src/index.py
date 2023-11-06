@@ -1,5 +1,5 @@
 from varasto import Varasto
-
+#Tehtävä11 muokkaus
 
 def main():
     mehua = Varasto(100.0)
